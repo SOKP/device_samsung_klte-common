@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "branch":      "sokp-l5.1"
+  }
+]
